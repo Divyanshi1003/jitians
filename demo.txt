@@ -10,4 +10,4 @@ pkfgvn
 byyy
 hello everyone
 git stash or git stash push: This command saves your current uncommitted changes (both staged and unstaged tracked files) to a temporary storage area called the "stash stack" and then reverts your working directory to the state of the last commit.
- You can add a descriptive message using git stash push -m "message".
+You can add a descriptive message using git stash push -m "message".
